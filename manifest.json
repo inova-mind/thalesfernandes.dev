@@ -1,0 +1,13 @@
+{
+  "name": "Thales Fernandes · Desenvolvedor",
+  "short_name": "Thales Fernandes",
+  "description": "Portfólio de Thales Fernandes: desenvolvedor. Código limpo, soluções reais.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,21 @@
+# Thales Fernandes: Desenvolvedor
+
+> Portfólio de Thales Fernandes: desenvolvedor. Código limpo, soluções reais. Python, Java, SQL e mais.
+
+Desenvolvedor brasileiro focado em construir soluções práticas com código direto e bem estruturado. Trabalho do projeto à entrega: modelagem do problema, escolha das ferramentas certas, implementação enxuta e validação contínua. Cada linha de código serve a um propósito; cada decisão técnica é explicada em commit ou doc. Sem complicação artificial, o que precisa funcionar, funciona; o que precisa ser simples, é simples.
+
+## Tecnologias principais
+
+- Python, JavaScript, Java, C, C++, SQL, DAX
+- HTML5, CSS3
+- PostgreSQL, MySQL, SQLite
+- Modelagem UML, Power BI
+- Git, GitHub, VSCode, Linux
+
+## Contato
+
+- Site: https://thalesfernandes.dev
+- GitHub: https://github.com/thalescostaf
+- LinkedIn: https://linkedin.com/in/thalescostaf
+- Telegram: https://t.me/thalescostaf
+- E-mail: contato@thalesfernandes.dev

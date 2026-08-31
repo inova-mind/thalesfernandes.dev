@@ -1,0 +1,14 @@
+Developer: Thales Fernandes
+Title: Thales Fernandes, Desenvolvedor
+Description: Portfólio de Thales Fernandes, desenvolvedor. Código limpo, soluções reais. Python, Java, SQL e mais.
+Tagline: Código limpo, soluções reais.
+Contact: contato@thalesfernandes.dev
+Site: https://thalesfernandes.dev
+GitHub: https://github.com/thalescostaf
+LinkedIn: https://linkedin.com/in/thalescostaf
+Telegram: https://t.me/thalescostaf
+From: Brasil
+Last update: 2026-08-31
+Language: Portuguese (Brazil)
+Standards: HTML5, CSS3
+Hosted: Debian + Nginx + Cloudflare
