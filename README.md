@@ -1,4 +1,4 @@
-<img src=".github/logo.svg" alt="thalesfernandes.dev" height="72">
+<img src=".github/logo.jpg" alt="thalesfernandes.dev" height="72">
 
 # thalesfernandes.dev
 
